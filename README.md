@@ -1,7 +1,7 @@
 # Deep learning datasets
 整理分类深度学习各方向公开数据集
 # 目录
-[1.小目标检测](#1)<br>
+[1.小目标检测](https://github.com/extreme-assistant/Deep-learning-datasets/blob/main/%E5%B0%8F%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B)<br>
 [2.目标检测](#2)<br>
 3.人体姿态估计<br>
 4.图像分割<br>
@@ -71,13 +71,22 @@
 [26]水下垃圾检测数据集|数据集下载地址：http://m6z.cn/6nnDQK
 
 
+# 3 人体姿态估计
+[1]KTH 多视图足球数据集|数据集下载地址：http://m6z.cn/692agI
 
+[2]宾夕法尼亚动作数据集|数据集下载地址：http://m6z.cn/692akK
 
+[3]BBC姿态数据集|数据集下载地址：http://m6z.cn/5xr6Xq
 
+[4]Poser 数据集|数据集下载地址：http://m6z.cn/6gynqz
 
+[5]野外 3D 姿势数据集|数据集下载地址：http://m6z.cn/5xr6Z2
 
+[6]V-COCO数据集|数据集下载地址：http://m6z.cn/5UGaii
 
+[7]宜家 ASM 数据集|数据集下载地址：http://m6z.cn/692aos
 
+[8]立体人体姿势估计数据集|数据集下载地址：http://m6z.cn/62cnp5
 
 
 
