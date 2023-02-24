@@ -1,4 +1,4 @@
-# Deep learning datasets（2022/06/09 持续更新中）
+# Deep learning datasets（2023/02/24 持续更新中）
 整理分类深度学习各方向公开数据集
 # 目录
 [1.小目标检测](#1)<br>
@@ -14,6 +14,8 @@
 [11.图像识别](#11)<br>
 [12.NLP](#12)<br>
 [13.医学图像](#13)<br>
+[14.自动驾驶](#14)<br>
+[15.图像去雾](#15)<br>
 
 <a name="1"/>
 
@@ -233,6 +235,25 @@
 
 [6]Kaggle 垃圾分类图片数据集|数据集下载地址：http://m6z.cn/5z2fOq<br><br>
 
+[7]花卉数据集|数据集下载地址：http://m6z.cn/6rTT7n<br><br>
+
+[8]综合汽车数据集|数据集下载地址：http://m6z.cn/6rTTar <br><br>
+
+[9]室内场景识别|数据集下载地址：http://m6z.cn/5PCpJ5 <br><br>
+
+[10]90种动物图像数据集|数据集下载地址：http://m6z.cn/6rTTbJ <br><br>
+
+[11]飞机数据集|数据集下载地址：http://m6z.cn/5X8CPy<br><br>
+
+[12]衣服数据集|数据集下载地址：http://m6z.cn/64EPUp<br><br>
+
+[13]商标数据集|数据集下载地址：http://m6z.cn/6cb2HG<br><br>
+
+[14]Office-Home数据集|数据集下载地址：http://m6z.cn/5I6cFG<br><br>
+
+[15]食物图像数据集|数据集下载地址：http://m6z.cn/6rdsSw<br><br>
+
+
 
 <a name="11"/>
 
@@ -263,21 +284,80 @@
 
 [6]m2caiSeg腹腔镜图像数据集|数据集下载地址：http://m6z.cn/5yW8q0<br><br>
 
-[7]血细胞图像数据集|数据集下载地址：http://m6z.cn/5zdTDb
+[7]血细胞图像数据集|数据集下载地址：http://m6z.cn/5zdTDb<br><br>
 
-[8]脑肿瘤 MRI 数据集|数据集下载地址：http://m6z.cn/63iHcV
+[8]脑肿瘤 MRI 数据集|数据集下载地址：http://m6z.cn/63iHcV<br><br>
 
-[9]糖尿病性黄斑水肿的OCT图像数据集|数据集下载地址：http://m6z.cn/6xn7cp
+[9]糖尿病性黄斑水肿的OCT图像数据集|数据集下载地址：http://m6z.cn/6xn7cp<br><br>
 
-[10]身体部位X射线图像数据集|数据集下载地址：http://m6z.cn/5yth1K
+[10]身体部位X射线图像数据集|数据集下载地址：http://m6z.cn/5yth1K<br><br>
 
-[11]眼病深度学习数据集|数据集下载地址：http://m6z.cn/5yth3m
+[11]眼病深度学习数据集|数据集下载地址：http://m6z.cn/5yth3m<br><br>
 
-[12]皮肤病数据集|数据集下载地址：http://m6z.cn/6pQW7A
+[12]皮肤病数据集|数据集下载地址：http://m6z.cn/6pQW7A<br><br>
 
-[13]心脏病发作分析和预测数据集|数据集下载地址：http://m6z.cn/6ikH8v
+[13]心脏病发作分析和预测数据集|数据集下载地址：http://m6z.cn/6ikH8v<br><br>
 
-[14]膝关节 X 射线图像数据集|数据集下载地址：http://m6z.cn/6aOU5G
+[14]膝关节 X 射线图像数据集|数据集下载地址：http://m6z.cn/6aOU5G<br><br>
 
 
 
+<a name="14"/>
+
+# 14 自动驾驶
+
+[1]城市景观图像对数据集|数据集下载地址：http://m6z.cn/6qBe8e<br><br>
+
+[2]自动驾驶汽车的语义分割数据集|数据集下载地址：http://m6z.cn/5zYdv9<br><br>
+
+[3]BDD100K驾驶视频数据集|数据集下载地址：http://m6z.cn/6qBeaa<br><br>
+
+[4]CULane数据集|数据集下载地址：http://m6z.cn/643fxb<br><br>
+
+[5]非洲地区交通标志数据集|数据集下载地址：http://m6z.cn/6j5167<br><br>
+
+[6]Argoverse数据集|数据集下载地址：http://m6z.cn/5P0b9B<br><br>
+
+[7]驾驶模拟器车道检测数据集|数据集下载地址：http://m6z.cn/5zYdzP<br><br>
+
+[8]道路上自动驾驶汽车数据集|数据集下载地址：http://m6z.cn/5ss0xe<br><br>
+
+[9]加州理工学院行人数据集|数据集下载地址：http://m6z.cn/5P0bdX<br><br>
+
+[10]CamSeq 2007数据集|数据集下载地址：http://m6z.cn/5ss0Ho<br><br>
+
+[11]DriveSeg场景分割数据集|数据集下载地址：http://m6z.cn/5tDCeU<br><br>
+
+[12]Comma2k19 车道线检测数据集|数据集下载地址：http://m6z.cn/6r36nm<br><br>
+
+[13]雷达场景数据集|数据集下载地址：http://m6z.cn/5tDChE<br><br>
+
+[14]Cam2BEV 数据集|数据集下载地址：http://m6z.cn/6jwTlT<br><br>
+
+[15]LiDAR 2D深度图像数据集|数据集下载地址：http://m6z.cn/5Pwfy5<br><br>
+
+[16]交通信号灯检测图像|数据集下载地址：http://m6z.cn/6jwTHb<br><br>
+
+[17]德国交通标志识别数据集|数据集下载地址：http://m6z.cn/6c0GEA<br><br>
+
+[18]LISA交通灯数据集|数据集下载地址：http://m6z.cn/6rNj17<br><br>
+
+[19]昼夜行人序列数据集|数据集下载地址：http://m6z.cn/6rNj1r<br><br>
+
+
+
+<a name="15"/>
+
+# 15 图像分割
+
+[1]D-HAZY|数据集下载地址：http://m6z.cn/5IBatp<br><br>
+
+[2]RESIDE|数据集下载地址：http://m6z.cn/5IBauH<br><br>
+
+[3]Middlebury Stereo双目立体匹配测试数据集|数据集下载地址：http://m6z.cn/5Prq8G<br><br>
+
+[4]NH-HAZE|数据集下载地址：http://m6z.cn/5tyN0D<br><br>
+
+[5]DENSE-HAZE|数据集下载地址：http://m6z.cn/5tyMZP<br><br>
+
+[6]REVIDE视频去雾数据集|数据集下载地址：http://m6z.cn/6bVqYX<br><br>
