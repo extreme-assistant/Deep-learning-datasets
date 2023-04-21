@@ -16,6 +16,13 @@
 [13.医学图像](#13)<br>
 [14.自动驾驶](#14)<br>
 [15.图像去雾](#15)<br>
+[16.RGB-T](#16)<br>
+[17.图像去噪](#17)<br>
+[18.人群计数、行人检测](#18)<br>
+[19.安全帽、头盔、反光衣、垃圾识别](#19)<br>
+[20.车牌识别](#20)<br>
+[21.图像配准](#21)<br>
+[22.卡车货车、野外火灾、抽烟识别](#22)<br>
 
 <a name="1"/>
 
@@ -361,3 +368,148 @@
 [5]DENSE-HAZE|数据集下载地址：http://m6z.cn/5tyMZP<br><br>
 
 [6]REVIDE视频去雾数据集|数据集下载地址：http://m6z.cn/6bVqYX<br><br>
+
+
+
+<a name="16"/>
+
+# 16 RGB-T
+
+[1]HFUT-Lytro数据集｜数据集下载地址：https://sourl.cn/xGKqau
+
+[2]DUTLF-V2｜数据集下载地址：http://u3v.cn/65oL0y
+
+[3]Lytro Illum｜数据集下载地址：http://u3v.cn/6kr8yE
+
+[4]DUTLF-MV｜数据集下载地址：http://u3v.cn/6lbl3d
+
+[5]光场 (Lytro) 和立体声 (Project Tango) 数据集｜数据集下载地址：http://u3v.cn/6s1AFA
+
+[6]RGB-D 人群数据集｜数据集下载地址：http://u3v.cn/5tNHTn
+
+[7]ReDWeb-S｜数据集下载地址：http://u3v.cn/5BjUY4
+
+[8]NLPR｜数据集下载地址：http://u3v.cn/5IQ82L
+
+
+<a name="17"/>
+
+# 17 图像去噪
+
+[1]图像去噪｜数据集下载地址：https://sourl.cn/rMsdE8
+
+[2]FMD（荧光显微镜去噪）数据集｜数据集下载地址：https://sourl.cn/Wyqrui
+
+[3]SIDD智能手机图像去噪数据集｜数据集下载地址：https://sourl.cn/jdpJZ6
+
+[4]SIDD-small数据集｜数据集下载地址：https://sourl.cn/kaYGxd
+
+[5]Super Resolution Benchmarks｜数据集下载地址：https://sourl.cn/Bp6QZs
+
+
+<a name="18"/>
+
+# 18 人群计数、行人检测
+
+[1]SCUT FIR行人检测数据集｜数据集下载地址：https://sourl.cn/4VK3Bn
+
+[2]JHU-CROWD++｜数据集下载地址：https://sourl.cn/mgxHEY
+
+[3]CIHP人体解析数据集｜数据集下载地址：https://sourl.cn/W3Tm2J
+
+[4]AHU-Crowd人群数据集｜数据集下载地址：https://sourl.cn/XFJDCh
+
+[5]AudioVisual 人群计数｜数据集下载地址：https://sourl.cn/wfd7wD
+
+[6]UCF-CC-50｜数据集下载地址：http://c.nxw.so/9LYoK
+
+[7]北京BRT数据集｜数据集下载地址：http://c.nxw.so/c1PV9
+
+
+
+<a name="19"/>
+
+# 19 安全帽、头盔、反光衣、垃圾识别
+
+[1]安全帽佩戴数据集｜数据集下载链接：http://suo.nz/2M6i3r
+
+[2]SHWD安全帽佩戴检测数据集｜数据集下载链接：http://suo.nz/2TCswQ
+
+[3]摩托车头盔检测数据集｜数据集下载链接：http://suo.nz/318FBx
+
+[4]安全帽和安全背心（反光衣）图像数据集｜数据集下载链接：http://suo.nz/38ESGe
+
+[5]垃圾分类数据集｜数据集下载链接：http://suo.nz/3gb5Jj
+
+[6]塑料-纸张-垃圾袋合成图像数据集｜数据集下载链接：http://suo.nz/2i1p7K
+
+[7]垃圾溢出数据集｜数据集下载链接：http://suo.nz/2iM1Dd
+
+[8]YOLO格式的头盔/头部检测数据集｜数据集下载链接：http://suo.nz/2pChfA
+
+
+
+<a name="20"/>
+
+# 20 车牌识别
+
+[1]车牌检测｜数据集下载链接：http://suo.nz/2pPIpw
+
+[2]自动车牌识别｜数据集下载链接：http://suo.nz/2xhgIZ
+
+[3]合成土耳其车牌｜数据集下载链接：http://suo.nz/2ENtNG
+
+[4]美国 50 个州的车牌 + DC｜数据集下载链接：http://suo.nz/2MjGSn
+
+[5]印度车牌｜数据集下载链接：http://suo.nz/2TPTX4
+
+[6]印尼车牌号｜数据集下载链接：http://suo.nz/31m6LD
+
+[7]伊朗车牌数据集｜数据集下载链接：http://suo.nz/38SjQk
+
+[8]带标签的印度车牌｜数据集下载链接：http://suo.nz/3fIzsH
+
+[9]斯里兰卡车牌数据集｜数据集下载链接：http://suo.nz/2hySR8
+
+[10]孟加拉车牌｜数据集下载链接：http://suo.nz/2ijvkZ
+
+[11]拉脱维亚车牌｜数据集下载链接：http://suo.nz/3fIzrJ
+
+
+<a name="21"/>
+
+# 21 图像配准
+
+[1]Brown 数据集｜数据集下载链接：http://suo.nz/3042bh
+
+[2]ETHZ Toys｜数据集下载链接：http://suo.nz/36UhM2
+
+[3]HPatches｜数据集下载链接：http://suo.nz/3equQJ
+
+[4]多模态图像配准数据集｜数据集下载链接：http://suo.nz/2ggOfa
+
+[5]FIRE眼底图像配准数据集｜数据集下载链接：http://suo.nz/2nMBiX
+
+[6]结构 MRI 图像｜数据集下载链接：http://suo.nz/2viOnE
+
+[7]CT扫描医学图像配准数据集｜数据集下载链接：http://suo.nz/2w3qT7
+
+[8]UNIFESP X 射线人体部位分类数据集｜数据集下载链接：http://suo.nz/2DvrOM
+
+
+<a name="22"/>
+
+# 22 卡车货车、野外火灾、抽烟识别
+
+[1]卡车倾倒建筑垃圾｜数据集下载链接：http://suo.nz/2nVNKH
+
+[2]工程车辆（货车/拖车）数据集｜数据集下载链接：http://suo.nz/2vrAOu
+
+[3]Smoke100k｜数据集下载链接：http://suo.nz/2w81aV
+
+[4]野外火灾烟雾数据集｜数据集下载链接：http://suo.nz/2DEbEk
+
+[5]抽烟者/不抽烟者数据集｜数据集下载链接：http://suo.nz/2LaoJ1
+
+[6]香烟识别｜数据集下载链接：http://suo.nz/2S0Elo
+
