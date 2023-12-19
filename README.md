@@ -1,4 +1,4 @@
-# Deep learning datasets（2023/12/04 持续更新中）
+# Deep learning datasets（2023/12/19 持续更新中）
 整理分类深度学习各方向公开数据集
 # 目录
 [1.小目标检测](#1)<br>
@@ -110,6 +110,18 @@
 [25]加州理工学院相机陷阱数据集|数据集下载地址：https://beerys.github.io/CaltechCameraTraps/<br><br>
 
 [26]水下垃圾检测数据集|数据集下载地址：http://m6z.cn/6nnDQK<br><br>
+
+[27]SF-MASK|数据集下载地址：http://suo.nz/2E6ADA<br><br>
+
+[28]口罩检测视频数据集|数据集下载地址：http://suo.nz/2wAnAv<br><br>
+
+[29]口罩佩戴数据集|数据集下载地址：http://suo.nz/2p4avO<br><br>
+
+[30]口罩检测数据集|数据集下载地址：http://suo.nz/2ojy0l<br><br>
+
+[31]MDMFR口罩数据集|数据集下载地址：http://suo.nz/2gNkVE<br><br>
+
+[32]RMFD口罩遮挡人脸数据集|数据集下载地址：http://suo.nz/2ojy0v<br><br>
 
 
 <a name="3"/>
