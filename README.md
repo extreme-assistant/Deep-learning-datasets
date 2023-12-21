@@ -1,4 +1,4 @@
-# Deep learning datasets（2023/12/19 持续更新中）
+# Deep learning datasets（2023/12/21 持续更新中）
 整理分类深度学习各方向公开数据集
 # 目录
 [1.小目标检测](#1)<br>
@@ -448,6 +448,11 @@ Architectural Heritage Elements Dataset (AHE) 是一个图像数据集，用于�
 
 该数据集包含良性皮肤痣和恶性皮肤痣图像的平衡数据集。数据由两个文件夹组成，每个文件夹包含两种痣的 1800 张图片 (224x244)。<br><br>
 
+[21]CT 医学图像|数据集下载地址：http://suo.nz/2tQehH<br>
+
+[22]MedMNIST医学图像分割评估|数据集下载地址：http://suo.nz/2Bmrmo<br>
+
+[23]多标签视网膜疾病 (MuReD) 数据集|数据集下载地址：http://suo.nz/2ISEr5<br>
 
 
 <a name="14"/>
